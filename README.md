@@ -1,5 +1,9 @@
 # vue-daily
 
+## 使用了vue-cli脚手架搭建环境
+## 使用vuex进行状态管理
+## 使用nodejs搭建proxy代理服务器，和简单功能后台接口
+## 使用mysql以及Navicat作为数据库搭建
 
 > A Vue.js project
 
